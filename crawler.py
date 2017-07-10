@@ -1,4 +1,5 @@
 # 爬取京东手机数据，并存储到excel或txt文件中
+# 测试时间为2017年7月10日
 # !C:\Python\Python35
 #_*_ encoding: utf-8 _*_
 
